@@ -14,7 +14,7 @@ vim 에디터 사용법 학습 (#1)
 
 3. ls
  - list
-  - ls -a, ls -l, ls -al
+     - ls -a, ls -l, ls -al
 
 ### vim 사용법
 > window에서 git bash를 설치할 때, default editor로 vim을 선택했기 때문에 git을 사용하려면 반드시 vim을 사용할 줄 알아야 함
